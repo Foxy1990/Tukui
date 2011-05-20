@@ -1,0 +1,7 @@
+## Interface: 40100
+## Title: GuildUnInvite
+## Notes: Kick Guildmembers with Rank X and Offlineday's > X 
+## Author: Foxxi - EU Nera'thor
+core.lua
+kick.lua
+promote.lua
